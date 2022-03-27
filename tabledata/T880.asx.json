@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"GUR",
+    "NAME1":"GUR Aero Space",
+    "CNTRY":"TH",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Learning",
+    "POBOX":"",
+    "PSTLC":"10000",
+    "CITY":"Bangkok",
+    "CURR":"THB",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
